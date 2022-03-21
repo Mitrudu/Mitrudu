@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mitrudu
-- 👀 I’m interested in 
+- 👀 I’m new to Githuband I dont know anything about it...
 - 🌱 I’m currently trying to learn Web Development.
 
 <!---
